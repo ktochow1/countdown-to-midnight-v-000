@@ -11,7 +11,7 @@ end
   end
 end
 
-def countdown_with_sleep(5)
+# def countdown_with_sleep(5)
 #   timer 
 #   while timer > 0 
 #   sleep(5)
