@@ -18,9 +18,10 @@ def countdown_with_sleep(5)
   puts "#{timer} SECOND(S)!"
   timer -= 1
 end
-x = 1
-while x < 10
-  puts "#{x} is less than 10"
-  x += 1
 end
-end
+# x = 1
+# while x < 10
+#   puts "#{x} is less than 10"
+#   x += 1
+# end
+# end
